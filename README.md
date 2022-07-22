@@ -1,4 +1,4 @@
-# Andhra-Bank-Mobile-Application 
+# Andhra-Bank-Mobile-Application (BFSI Domain)
 Manual testing project of Andhra bank mobile application of BFSI Domain.
 
 Andhra Bank Mobile Banking Application is a mobile net banking system for Banking Financial Services and Insurance (BFSI) Domain. Bhogaraju Pattabhi Sitaramayya founded Andhra Bank in 1923 in Machilipatnam, Andhra Pradesh. Andhra Bank is a medium-sized public sector bank (PSB) of India, with a network of 2885 branches, 4 extension counters, 38 satellite offices and 3798 automated teller machines (ATMs) as of 31 March 2019.
